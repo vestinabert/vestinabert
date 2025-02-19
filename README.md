@@ -1,17 +1,7 @@
 ## 👋 Hi, I'm Vestina.
 Building web apps, developing AI models, and solving real-world problems.
 
-<a href="https://github.com/vestinabert/Typing_Speed_Test_App">
-    <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vestinabert&repo=Typing_Speed_Test_App&theme=default&hide_border=true&show_icons=true&description_lines_count=3" alt="Typing_Speed_Test_App">
-</a>
 
-<a href="https://github.com/vestinabert/Social_Media_Web_Application">
-    <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vestinabert&repo=Social_Media_Web_Application&theme=default&hide_border=true&show_icons=true&description_lines_count=3" alt="Social_Media_Web_Application">
-</a>
-
-<a href="https://github.com/vestinabert/Student_Diary_Web_Application">
-    <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vestinabert&repo=Student_Diary_Web_Application&theme=default&hide_border=true&show_icons=true&description_lines_count=3" alt="Student_Diary_Web_Application">
-</a>
 <a href="https://github.com/vestinabert?tab=repositories">
   <img alt="vestinabert's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vestinabert&theme=transparent" width="400"/>
 </a>
