@@ -3,7 +3,7 @@ Building web apps, developing AI models, and solving real-world problems.
 
 
 <a href="https://github.com/vestinabert?tab=repositories">
-  <img alt="vestinabert's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vestinabert&theme=transparent" width="400"/>
+  <img alt="vestinabert's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vestinabert&theme=default" width="400"/>
 </a>
 
 
